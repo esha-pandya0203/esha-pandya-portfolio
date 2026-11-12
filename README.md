@@ -1,8 +1,8 @@
-| [home page]([https://cmustudent.github.io/tswd-portfolio-templates/](https://esha-pandya0203.github.io/esha-pandya-portfolio/visualizing-government-debt)) | [visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://esha-pandya0203.github.io/esha-pandya-portfolio/) | [visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Esha Pandya's Data Visualization Portfolio 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://esha-pandya0203.github.io/esha-pandya-portfolio/)
-- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/esha-pandya0203/esha-pandya-portfolio)
+- Web page URL: [https://esha-pandya0203.github.io/esha-pandya-portfolio/](https://esha-pandya0203.github.io/esha-pandya-portfolio/)
+- This repository: [https://github.com/esha-pandya0203/esha-pandya-portfolio](https://github.com/esha-pandya0203/esha-pandya-portfolio)
 
 Visit each tab to learn more about data visualization projects I have worked on! 
 
@@ -25,7 +25,7 @@ I am a second-year graduate student at Carnegie Mellon University pursuing a Mas
 In this visualization, I used data from the Organization for Economic Co-operation and Development (OECD) General Government Debt dataset to construct a highlight table. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this assignment, I redesigned a substance-use visualization using the UCI Drug Consumption dataset. My redesign uses an interactive Tableau dashboard to explore how reported lifetime substance use varies across education levels.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
