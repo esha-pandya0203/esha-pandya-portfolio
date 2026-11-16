@@ -148,3 +148,6 @@ The redesign provides a way to compare reported lifetime substance-use prevalenc
 4. Kaggle. [Drug Consumptions (UCI)](https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci?resource=download).
 5. Stephen Few. [Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf).
 6. Berinato, Scott. *Good Charts*. Harvard Business Review Press.
+
+## AI Appendix 
+AI was not used in the completion of this assignment. 
