@@ -130,15 +130,13 @@ A respondent is considered to have reported lifetime use if their usage-recency 
 "Never Used" responses are excluded from the numerator. When all substances are selected, a respondent is counted as having reported use if they used at least one included substance.
 
 ### Final Design Decisions
-| Design Decision | Reasoning |
-|---|---|
-| Horizontal bar chart | Makes category labels and bar lengths easier to compare |
-| Education categories | Focuses the analysis on differences across educational backgrounds |
-| Percentage instead of count | Accounts for differences in the sizes of education groups (change made based on interview) |
-| Interactive substance filter | Lets users explore different substances without displaying numerous charts |
-| Consistent education ordering | Maintains a logical progression between education categories |
-| Gradient color palette | Organizes the education levels from least (lighter shade) to most (darker shade) usage |
-| Explanatory caption | Clarifies how the percentages are calculated and interpreted to avoid reader confusion |
+- Horizontal bar chart: Makes category labels and bar lengths easier to compare 
+- Education categories: Focuses the analysis on differences across educational backgrounds 
+- Percentage instead of count: Accounts for differences in the sizes of education groups (change made based on interview) 
+- Interactive substance filter: Lets users explore different substances without displaying numerous charts 
+- Consistent education ordering: Maintains a logical progression between education categories 
+- Gradient color palette: Organizes the education levels from least (lighter shade) to most (darker shade) usage 
+- Explanatory caption: Clarifies how the percentages are calculated and interpreted to avoid reader confusion 
 
 ### What the Redesign Shows
 The redesign provides a way to compare reported lifetime substance-use prevalence across education categories for a selected substance. The interactive filter makes it possible to investigate how these patterns vary depending on the substance. Unlike the original heatmap, which displays many substance-use categories simultaneously, the redesigned chart focuses on one comparison at a time. These results describe the survey sample and should not be interpreted as representative of the general population. Additionally, the analysis is observational and does not establish that education causes differences in substance use as use differs depending on the substance. 
