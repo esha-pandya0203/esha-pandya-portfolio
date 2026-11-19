@@ -65,7 +65,7 @@ From the Good Charts reading, the process will include some data-driven explorat
 ## Step three: Sketch a solution
 After critiquing the original visualization, I developed two sketches that explored different approaches to communicating information from the dataset.
 
-<img src="substance-use-sketches.jpg" width="700"/>
+<img src="images/substance-use-sketches.jpg" width="700"/>
 
 **Sketch 1: Education Level and Substance Use**
 
