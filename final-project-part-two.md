@@ -82,7 +82,7 @@ Note that the lefthand side of the explorer is a work in progress in terms of re
 ## Storyboard Walkthrough 
 
 | Section | Intented Reader Understanding | Visualization |
-| :---: | :---: | :---: |
+| --------- | ---------- | ---------- |
 | Introduction | What does a star rating mean? | Pennsylvania rating distribution |
 | Understanding | What contributes to an overall rating? | Measure-group weighting chart |
 | Comparing | Can similarly rated hospitals differ? | Hospital comparison |
@@ -99,7 +99,7 @@ For the user research, I plan to interview at least three adults with varying le
 ## Interview script
 
 | Goal | Questions to Ask |
-|------|------------------|
+|-------------|-------------------------|
 | Understand familiarity with hospital ratings | Have you ever used hospital ratings or reviews when choosing a hospital? |
 | Understand initial assumptions | If you saw a hospital with four out of five stars, what would that rating mean to you? |
 | Check if readers understand distribution graph | Looking at this graph, what is the main takeaway you notice? What would you assume? |
