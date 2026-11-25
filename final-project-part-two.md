@@ -80,6 +80,7 @@ Purpose: Give patients a practical tool
 Note that the lefthand side of the explorer is a work in progress in terms of removing excess labels. 
 
 ## Storyboard Walkthrough 
+
 | Section | Intented Reader Understanding | Visualization |
 | :---: | :---: | :---: |
 | Introduction | What does a star rating mean? | Pennsylvania rating distribution |
@@ -96,6 +97,7 @@ The target audience for this project are patients and families who may need to c
 For the user research, I plan to interview at least three adults with varying levels of familiarity with hospital ratings and healthcare decision-making. One paticipant will be comfortable navigating the U.S. hospital system, one participants will be new to the system, and the other will be somewhere in between to ensure that all levels of healthcare literacy can be supported through this project. 
 
 ## Interview script
+
 | Goal | Questions to Ask |
 |------|------------------|
 | Understand familiarity with hospital ratings | Have you ever used hospital ratings or reviews when choosing a hospital? |
