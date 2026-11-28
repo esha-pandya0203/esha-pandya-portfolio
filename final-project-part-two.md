@@ -109,38 +109,30 @@ For the user research, I plan to interview at least three adults with varying le
 | User preference for exploration feature | If you were choosing a hospital, what information would you like to see first? Is there anything in the explorer that is missing? | 
 | Confirm overall message | What do you think is the main message of this story? | 
 
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (student, 20s, new to healthcare system) | Interview 2 (student, 20s, has some experience with healthcare system) | Interview 3 (student, 20s, most experience with healthcare system) |
+| Questions  | Interview 1 (student, 20s, new to healthcare system) | Interview 2 (student, 20s, has some experience with healthcare system) | Interview 3 (physician, 50s, most experience with healthcare system) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Have you ever used hospital ratings or reviews when choosing a hospital? | Insightful feedback            |             |             |
-| If you saw a hospital with four out of five stars, what would that rating mean to you? |                                |             |             |
-| Looking at this graph, what is the main takeaway you notice? What would you assume? |                                |             |             |
-| Is any part of the rating composition confusing? Does it require more clarity? |                                |             |             |
-| Does this visualization affect how you interpret the shared star rating? |                                |             |             |
-| Is the message of this visualization clear? Is anything about the benchmark or safety measures confusing? |                                |             |             |
-| If you were choosing a hospital, what information would you like to see first? Is there anything in the explorer that is missing? |                                |             |             |
-| What do you think is the main message of this story? |                                |             |             |
+| Have you ever used hospital ratings or reviews when choosing a hospital? | No | No, I have not (I stick with the same one as my parents and trust their opinion). | Yes |
+| If you saw a hospital with four out of five stars, what would that rating mean to you? | I would think the workers are nice, the response time is fast, and the service is fast as well. | I would think that it is a pretty good hospital overall. | It depends on the number of total reviews. |
+| Looking at this graph, what is the main takeaway you notice? What would you assume? | It makes me think that the most of the star ratings are 4 stars, then the second most rated is 3 stars, then the next category would be 2 stars, next 5 stars, and lastly 1 star with the lowest rating. | 4 stars are the most common rating in PA, followed by 3 stars, 5 and 2 are approximately the same amount, and very few hospitals have one star. | Most Pennsylvania hospitals do a better than average job. |
+| Is any part of the rating composition confusing? Does it require more clarity? | What does CMS mean? What are the proportions of the pie chart (percentage/numbers)? | In the pie chart, at a quick glance it seems like mortality, patient experience, and safety of care are equally weighted. Maybe including the percentage weights would be useful alongside the list of weight priority. | It's clear and would prefer to have physician's ratings included. |
+| Does this visualization affect how you interpret the shared star rating? | I am confused in the graph, 0 makes me believe that the star contribution is 0 stars? May if sorted from most stars to lowest? In that case, the pink would be first becuase it is the largest, and then put the actual count of how many stars each category has. | Yes! It quickly lets me see what hospitals perform better amongst the 5 groups and could help me decide which one to choose if I cared a lot about one of the 5 groups a lot. | Yes, it lets me decide which hospital I would visit based on safety of care and readmission rate instead of a generalized score. |
+| Is the message of this visualization clear? Is anything about the benchmark or safety measures confusing? | I think it is. If I got it right, the graph is showing that red is the percentage of not safe and grey is safe. | To me, I think including both the percentage and number in the same bar is a little hard to read/confusing. And labeling the y-axis to show that is the star rating would be helpful as well to me! Overall, I can see that a small number of 4 star hospitals have 1 safety measure below CMS requirement, and even fewer for 5 star hospitals. | Elaborate what safety benchmarks are included in the rating. |
+| If you were choosing a hospital, what information would you like to see first? Is there anything in the explorer that is missing? | How far is the hospital from my actual location? If friends have already visited any, I would ask for their feedback. | In addition to rating, I would want to see the histance from where I am to the hospital. If I don't particularly care about any of the 5 groups and was in between two four-star hospitals, I would pick the closest one. I also think in the explorer, it would be nice to compare 2 hospitals at once, like the visualization in the "Two hospitals: same score, different factors." | Be able to compare the hospitals. Put the legend closer to the donut chart. |
+| What do you think is the main message of this story? | What makes a hospital safe? Are there any other measures that people can use to better choose which hospital to go to? | That hospitals with the same rating aren't the same and that it's useful to see what goes into these ratings depending on my needs. | Consumers need to be educated about making better decisions for their own care. |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+From conducting the interviews above, I realized I can make improvements on my existing draft to improve the readability and understanding of the audience. I've noted these changes below: 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The proportions in the rating breakdown pie chart are unclear and readers are guessing. | Add percentages to the pie chart itself. |
+| It is unclear what measures go into the safety analysis. | Include the specific metrics that go into the safety measure group. Add more clear axis labels for the visualization. |
+| The explorer lacks some information that a user would normally use to make an informed decision. | Allow the user to directly compare two hospitals side-by-side. Also add a map so user's can see their location relative to the hospitals in the area. |                                                                       |
 
-> ...include any final thoughts you have here. 
+Overall, the interviewees understood the overall message of the story, requiring more clear labels in the visualizations to better and more efficiently understand the point. 
 
 For Part III, I plan to develop the final storytelling experience as a React web application. This will allow me to customize the visual design and organize the Tableau visualizations into a more cohesive narrative. The website will retain the central structure developed in Part II, moving from an introduction to hospital star ratings toward a deeper examination of individual quality measures and an interactive hospital explorer. The overall story and visualizations will remain consistent with the current drafts, with the refinements mentioned above. 
 
